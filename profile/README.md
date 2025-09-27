@@ -20,7 +20,7 @@ The software supports high-definition video and audio streaming, making it ideal
 
 It integrates seamlessly with macOS and works reliably on all recent Apple computers, including those with M-series chips. Whether you're teaching a class, hosting a webinar, or sharing media with friends, AirServer delivers a smooth and professional mirroring experience.
 
-![AirServer Interface](![AirServer Interface](https://www.airserver.com/img/screenshots/macos/airserver-macos-1.jpg)
+![AirServer Interface](![AirServer Interface](https://cdn.airserver.com/website/assets/img/quick-setup@2x.jpg)
 )
 
 ---
